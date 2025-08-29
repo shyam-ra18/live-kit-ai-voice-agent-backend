@@ -1,5 +1,3 @@
-Based on the Python setup instructions from the LiveKit Voice AI quickstart, here's a comprehensive README file:
-
 # LiveKit Voice AI Assistant - Python
 
 A simple voice assistant built with LiveKit Agents for Python that you can speak to in your terminal, browser, telephone, or native app.
