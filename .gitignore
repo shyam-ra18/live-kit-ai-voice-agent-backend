@@ -1,0 +1,54 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+*.manifest
+*.spec
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+ENV/
+.ai/
+.ai/
+ai/
+ai/Lib/
+ai/Include/
+ai/bin/
+ai/Scripts/
+
+# --- VSCode ---
+.vscode/
+*.code-workspace
+
+# --- Logs & Temp ---
+*.log
+*.tmp
+*.swp
+*.swo
+.DS_Store
+
+# --- Cache ---
+.cache/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# --- Environment Variables ---
+.env
+.env.local
+.env.*.local
+!*.example  # keep .env.example
+
+# --- Build ---
+dist/
+build/
+*.lock
+uv.lock
